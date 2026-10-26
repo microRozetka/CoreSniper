@@ -1,0 +1,11 @@
+.idea/
+.venv/
+__pycache__/
+build/
+dist/
+*.py[cod]
+build.bat
+icon.ico
+*.spec
+report.txt
+report.csv
